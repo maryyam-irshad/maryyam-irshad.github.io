@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maryyam-irshad.github.io/sitemap.xml
